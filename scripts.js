@@ -53,5 +53,5 @@ async function lerFoto(){
 
     total += Number(partes[1])
     document.querySelector(".total-gasto").innerHTML = "R$" + total.toFixed(2)
-    
+
 }
